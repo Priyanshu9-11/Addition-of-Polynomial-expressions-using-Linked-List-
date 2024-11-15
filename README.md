@@ -1,0 +1,1 @@
+addpoly() function receives the addresses of two polynomials represented by Linked List, performs polynomial addition to foram a resultant Linked List and returns its address back to the calling function.
